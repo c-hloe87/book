@@ -1,2 +1,2 @@
-# book
-Blog about books I think at least that’s what I’m trying to do 
+# The Book Blog 
+A blog about books I want to read, have already read, or I am going to read 
