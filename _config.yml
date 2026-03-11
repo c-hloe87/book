@@ -6,7 +6,7 @@ email: chloesegura545@gmail.com
 url: https://c-hloe87.github.io/book
 
 # Build settings
-theme: leap-day
+theme: leap day 
 markdown: kramdown
 plugins:
   - jekyll-feed
